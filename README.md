@@ -1,5 +1,5 @@
 # rust-new-project-template
-A good starting point for a new Rust project
+This repository consists of my Rust programming language codes and learning through Coursera, second course of the "Rust Programming" Specialization, "Data Engineering with Rust".
 
 ## References
 
