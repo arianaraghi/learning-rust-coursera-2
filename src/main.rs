@@ -81,10 +81,10 @@ fn linkedListing() {
 }
 fn hashmapping(){
     let numbers = vec![1, 2, 3, 4, 5, 3,2, 3, 5,6, 43,3, 2,3, 5,3, 2,2, 3, 5,3 ];
-    let freqs = logic(numbers);
+    let freqs = hashmap_logic(numbers);
     println!("{:?}", freqs)
 }
-fn logic(numbers: Vec<i32>) -> Vec<(i32, u32)> {
+fn hashmap_logic(numbers: Vec<i32>) -> Vec<(i32, u32)> {
     let mut frequencies: HashMap<i32, u32> = HashMap::new();
 
     for num in numbers{
