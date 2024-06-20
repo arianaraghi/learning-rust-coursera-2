@@ -1,5 +1,6 @@
-//! This is a testing program to get to know more about all the features in Rust through a Coursera course.
+//! This is the first week of the course.
 //!
+extern crate rasciigraph;
 
 use petgraph::visit::IntoEdgesDirected;
 use petgraph::Direction::Outgoing;
@@ -16,6 +17,7 @@ use std::cmp::Ord;
 use petgraph::graph::{NodeIndex, UnGraph};
 use petgraph::Direction;
 use std::fmt;
+use rasciigraph::{plot, Config};
 // use textwrap::fill;
 
 fn main() {
@@ -28,6 +30,7 @@ fn main() {
     // btreeset_usage();
     // println!("{:?}", generate_fruit_salad())
     // page_ranking();
+    using_rascii_plotting();
 }
 
 // Vector, VecDeque, LinkedList, and HashMap
@@ -339,6 +342,28 @@ fn page_ranking(){
 
 
 }
+
+// Plotting
+fn using_rascii_plotting(){
+    let cities = vec!["Lisbon", "Madrid", "Paris", "Berlin", "Copenhagen", "Stockholm", "Moscow"];
+    let distance_travelled = vec![0.0, 502.98, 1053.54, 2187.43, 2636.43, 3117.43, 4606.21];
+
+    println!("{}", cities.join(" > "));
+
+    println!(
+        "{}", 
+        plot(
+            distance_travelled.into_iter().map(|d| d as f64).collect(),
+            Config::default()
+            .with_offset(10)
+            .with_height(20)
+            .with_caption("Distances".to_string())
+            .with_width(15)
+        )
+    );
+}
+
+// 
 
 
 
