@@ -1,0 +1,1 @@
+std::result::Result<std::sync::MutexGuard<'_, std::vec::Vec<{integer}>>, std::sync::PoisonError<std::sync::MutexGuard<'_, std::vec::Vec<{integer}>>>>
