@@ -1,0 +1,11 @@
+/workspaces/learning-rust-coursera-2/week-2/chatbot/target/debug/deps/tower_layer-aec3d40dfafab8d0.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/workspaces/learning-rust-coursera-2/week-2/chatbot/target/debug/deps/libtower_layer-aec3d40dfafab8d0.rlib: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/workspaces/learning-rust-coursera-2/week-2/chatbot/target/debug/deps/tower_layer-aec3d40dfafab8d0.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/identity.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/layer_fn.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/stack.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/tower-layer-0.3.2/src/tuple.rs:
