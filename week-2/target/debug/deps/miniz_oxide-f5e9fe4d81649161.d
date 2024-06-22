@@ -1,0 +1,10 @@
+/workspaces/learning-rust-coursera-2/week-2/target/debug/deps/miniz_oxide-f5e9fe4d81649161.rmeta: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/workspaces/learning-rust-coursera-2/week-2/target/debug/deps/miniz_oxide-f5e9fe4d81649161.d: /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs /usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs
+
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/lib.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/mod.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/core.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/output_buffer.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/inflate/stream.rs:
+/usr/local/cargo/registry/src/index.crates.io-6f17d22bba15001f/miniz_oxide-0.7.4/src/shared.rs:
