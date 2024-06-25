@@ -1,6 +1,7 @@
 //! This is the second week of the course.
 //! 
 
+use std::{error::Error, io, process};
 use std::sync::{Arc,Mutex};
 use std::thread;
 use rand::Rng;
@@ -16,7 +17,8 @@ use wikipedia::Wikipedia;
 fn main(){
     // threading();
     // (_,_) = homophonic_cipher("plaintext");
-    webcrawling();
+    // webcrawling();
+    // process_csv();
 }
 
 // Using threads and mutex
@@ -136,9 +138,23 @@ fn webcrawling(){
     println!("Number of threads: {}", rayon::current_num_threads());
 }
 
-// ‌Building an LLM Chatbot using Tokio
+// Processing CSV files
+fn example() -> Result<(), Box<dyn Error>> {
+    let mut rdr = csv::Reader::from_reader(io::stdin());
+    for result in rdr.records(){
+        let record = result?;
+        println!("{:?}", record);
+    }
+    Ok(())
+}
+fn process_csv(){
+    if let Err(err) = example(){
+        println!("Error running example: {}", err);
+        process::exit(1)
+    }
+ }
 
-
+ //
 
 
 
