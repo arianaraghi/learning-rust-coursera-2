@@ -154,7 +154,12 @@ fn process_csv(){
     }
  }
 
- //
+ /* 
+    Here I should have practiced Cargo Lambda to play with AWS file systems.
+    However, since I live in a restricted region and country, I cannot use any of the 
+    AWS systems; therefore, I could not practice any Cargo Lambda functionality.
+*/
+
 
 
 
